@@ -1,0 +1,60 @@
+C:\ІПЗ_2023\24\client\TrainingSystem\TrainingSystem\bin\Debug\net6.0-windows\TrainingSystem.exe
+C:\ІПЗ_2023\24\client\TrainingSystem\TrainingSystem\bin\Debug\net6.0-windows\TrainingSystem.deps.json
+C:\ІПЗ_2023\24\client\TrainingSystem\TrainingSystem\bin\Debug\net6.0-windows\TrainingSystem.runtimeconfig.json
+C:\ІПЗ_2023\24\client\TrainingSystem\TrainingSystem\bin\Debug\net6.0-windows\TrainingSystem.dll
+C:\ІПЗ_2023\24\client\TrainingSystem\TrainingSystem\bin\Debug\net6.0-windows\TrainingSystem.pdb
+C:\ІПЗ_2023\24\client\TrainingSystem\TrainingSystem\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\ІПЗ_2023\24\client\TrainingSystem\TrainingSystem\bin\Debug\net6.0-windows\websocket-sharp.dll
+C:\ІПЗ_2023\24\client\TrainingSystem\TrainingSystem\obj\Debug\net6.0-windows\TrainingSystem.csproj.AssemblyReference.cache
+C:\ІПЗ_2023\24\client\TrainingSystem\TrainingSystem\obj\Debug\net6.0-windows\TrainingSystem.Auth.resources
+C:\ІПЗ_2023\24\client\TrainingSystem\TrainingSystem\obj\Debug\net6.0-windows\TrainingSystem.csproj.GenerateResource.cache
+C:\ІПЗ_2023\24\client\TrainingSystem\TrainingSystem\obj\Debug\net6.0-windows\TrainingSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\ІПЗ_2023\24\client\TrainingSystem\TrainingSystem\obj\Debug\net6.0-windows\TrainingSystem.AssemblyInfoInputs.cache
+C:\ІПЗ_2023\24\client\TrainingSystem\TrainingSystem\obj\Debug\net6.0-windows\TrainingSystem.AssemblyInfo.cs
+C:\ІПЗ_2023\24\client\TrainingSystem\TrainingSystem\obj\Debug\net6.0-windows\TrainingSystem.csproj.CoreCompileInputs.cache
+C:\ІПЗ_2023\24\client\TrainingSystem\TrainingSystem\obj\Debug\net6.0-windows\TrainingSystem.csproj.CopyComplete
+C:\ІПЗ_2023\24\client\TrainingSystem\TrainingSystem\obj\Debug\net6.0-windows\TrainingSystem.dll
+C:\ІПЗ_2023\24\client\TrainingSystem\TrainingSystem\obj\Debug\net6.0-windows\refint\TrainingSystem.dll
+C:\ІПЗ_2023\24\client\TrainingSystem\TrainingSystem\obj\Debug\net6.0-windows\TrainingSystem.pdb
+C:\ІПЗ_2023\24\client\TrainingSystem\TrainingSystem\obj\Debug\net6.0-windows\TrainingSystem.genruntimeconfig.cache
+C:\ІПЗ_2023\24\client\TrainingSystem\TrainingSystem\obj\Debug\net6.0-windows\ref\TrainingSystem.dll
+C:\ІПЗ_2023\24\client\TrainingSystem\TrainingSystem\obj\Debug\net6.0-windows\TrainingSystem.Reg.resources
+C:\ІПЗ_2023\24\client\TrainingSystem\TrainingSystem\obj\Debug\net6.0-windows\TrainingSystem.Student.resources
+C:\ІПЗ_2023\24\client\TrainingSystem\TrainingSystem\obj\Debug\net6.0-windows\TrainingSystem.Teacher.resources
+C:\ІПЗ_2023\24\client\TrainingSystem\TrainingSystem\obj\Debug\net6.0-windows\TrainingSystem.NewCourse.resources
+C:\ІПЗ_2023\24\client\TrainingSystem\TrainingSystem\obj\Debug\net6.0-windows\TrainingSystem.CourseTeacher.resources
+C:\ІПЗ_2023\24\client\TrainingSystem\TrainingSystem\obj\Debug\net6.0-windows\TrainingSystem.NewTask.resources
+C:\ІПЗ_2023\24\client\TrainingSystem\TrainingSystem\obj\Debug\net6.0-windows\TrainingSystem.SearchCourse.resources
+C:\ІПЗ_2023\24\client\TrainingSystem\TrainingSystem\obj\Debug\net6.0-windows\TrainingSystem.CourseStudent.resources
+C:\ІПЗ_2023\24\client\TrainingSystem\TrainingSystem\obj\Debug\net6.0-windows\TrainingSystem.TaskStudent.resources
+C:\ІПЗ_2023\24\client\TrainingSystem\TrainingSystem\obj\Debug\net6.0-windows\TrainingSystem.TaskTeacher.resources
+C:\Users\SaNcH\Desktop\3 курс\ІПЗ\24\client\TrainingSystem\TrainingSystem\bin\Debug\net6.0-windows\TrainingSystem.exe
+C:\Users\SaNcH\Desktop\3 курс\ІПЗ\24\client\TrainingSystem\TrainingSystem\bin\Debug\net6.0-windows\TrainingSystem.deps.json
+C:\Users\SaNcH\Desktop\3 курс\ІПЗ\24\client\TrainingSystem\TrainingSystem\bin\Debug\net6.0-windows\TrainingSystem.runtimeconfig.json
+C:\Users\SaNcH\Desktop\3 курс\ІПЗ\24\client\TrainingSystem\TrainingSystem\bin\Debug\net6.0-windows\TrainingSystem.dll
+C:\Users\SaNcH\Desktop\3 курс\ІПЗ\24\client\TrainingSystem\TrainingSystem\bin\Debug\net6.0-windows\TrainingSystem.pdb
+C:\Users\SaNcH\Desktop\3 курс\ІПЗ\24\client\TrainingSystem\TrainingSystem\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\SaNcH\Desktop\3 курс\ІПЗ\24\client\TrainingSystem\TrainingSystem\bin\Debug\net6.0-windows\websocket-sharp.dll
+C:\Users\SaNcH\Desktop\3 курс\ІПЗ\24\client\TrainingSystem\TrainingSystem\obj\Debug\net6.0-windows\TrainingSystem.csproj.AssemblyReference.cache
+C:\Users\SaNcH\Desktop\3 курс\ІПЗ\24\client\TrainingSystem\TrainingSystem\obj\Debug\net6.0-windows\TrainingSystem.Auth.resources
+C:\Users\SaNcH\Desktop\3 курс\ІПЗ\24\client\TrainingSystem\TrainingSystem\obj\Debug\net6.0-windows\TrainingSystem.CourseStudent.resources
+C:\Users\SaNcH\Desktop\3 курс\ІПЗ\24\client\TrainingSystem\TrainingSystem\obj\Debug\net6.0-windows\TrainingSystem.CourseTeacher.resources
+C:\Users\SaNcH\Desktop\3 курс\ІПЗ\24\client\TrainingSystem\TrainingSystem\obj\Debug\net6.0-windows\TrainingSystem.NewCourse.resources
+C:\Users\SaNcH\Desktop\3 курс\ІПЗ\24\client\TrainingSystem\TrainingSystem\obj\Debug\net6.0-windows\TrainingSystem.NewTask.resources
+C:\Users\SaNcH\Desktop\3 курс\ІПЗ\24\client\TrainingSystem\TrainingSystem\obj\Debug\net6.0-windows\TrainingSystem.Reg.resources
+C:\Users\SaNcH\Desktop\3 курс\ІПЗ\24\client\TrainingSystem\TrainingSystem\obj\Debug\net6.0-windows\TrainingSystem.SearchCourse.resources
+C:\Users\SaNcH\Desktop\3 курс\ІПЗ\24\client\TrainingSystem\TrainingSystem\obj\Debug\net6.0-windows\TrainingSystem.Student.resources
+C:\Users\SaNcH\Desktop\3 курс\ІПЗ\24\client\TrainingSystem\TrainingSystem\obj\Debug\net6.0-windows\TrainingSystem.TaskStudent.resources
+C:\Users\SaNcH\Desktop\3 курс\ІПЗ\24\client\TrainingSystem\TrainingSystem\obj\Debug\net6.0-windows\TrainingSystem.TaskTeacher.resources
+C:\Users\SaNcH\Desktop\3 курс\ІПЗ\24\client\TrainingSystem\TrainingSystem\obj\Debug\net6.0-windows\TrainingSystem.Teacher.resources
+C:\Users\SaNcH\Desktop\3 курс\ІПЗ\24\client\TrainingSystem\TrainingSystem\obj\Debug\net6.0-windows\TrainingSystem.csproj.GenerateResource.cache
+C:\Users\SaNcH\Desktop\3 курс\ІПЗ\24\client\TrainingSystem\TrainingSystem\obj\Debug\net6.0-windows\TrainingSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SaNcH\Desktop\3 курс\ІПЗ\24\client\TrainingSystem\TrainingSystem\obj\Debug\net6.0-windows\TrainingSystem.AssemblyInfoInputs.cache
+C:\Users\SaNcH\Desktop\3 курс\ІПЗ\24\client\TrainingSystem\TrainingSystem\obj\Debug\net6.0-windows\TrainingSystem.AssemblyInfo.cs
+C:\Users\SaNcH\Desktop\3 курс\ІПЗ\24\client\TrainingSystem\TrainingSystem\obj\Debug\net6.0-windows\TrainingSystem.csproj.CoreCompileInputs.cache
+C:\Users\SaNcH\Desktop\3 курс\ІПЗ\24\client\TrainingSystem\TrainingSystem\obj\Debug\net6.0-windows\TrainingSystem.csproj.CopyComplete
+C:\Users\SaNcH\Desktop\3 курс\ІПЗ\24\client\TrainingSystem\TrainingSystem\obj\Debug\net6.0-windows\TrainingSystem.dll
+C:\Users\SaNcH\Desktop\3 курс\ІПЗ\24\client\TrainingSystem\TrainingSystem\obj\Debug\net6.0-windows\refint\TrainingSystem.dll
+C:\Users\SaNcH\Desktop\3 курс\ІПЗ\24\client\TrainingSystem\TrainingSystem\obj\Debug\net6.0-windows\TrainingSystem.pdb
+C:\Users\SaNcH\Desktop\3 курс\ІПЗ\24\client\TrainingSystem\TrainingSystem\obj\Debug\net6.0-windows\TrainingSystem.genruntimeconfig.cache
+C:\Users\SaNcH\Desktop\3 курс\ІПЗ\24\client\TrainingSystem\TrainingSystem\obj\Debug\net6.0-windows\ref\TrainingSystem.dll
